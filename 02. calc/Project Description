@@ -1,0 +1,11 @@
+## Standard Calculator with Complex Expression Support
+
+### Overview
+
+The Standard Calculator project is a versatile calculator application designed to handle standard arithmetic operations as well as complex mathematical expressions. Whether you're calculating simple addition or solving complex equations, this calculator is up to the task.
+
+### Features
+
+- **Basic Arithmetic:** Addition, subtraction, multiplication, and division.
+- **Complex Expressions:** Support for parentheses and operator precedence.
+- **Clear and Undo:** Clear the input and undo the last entry.
